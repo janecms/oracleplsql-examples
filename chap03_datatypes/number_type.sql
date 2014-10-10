@@ -8,4 +8,9 @@ BEGIN
   DBMS_OUTPUT.PUT_LINE('The value of x is ' || TO_CHAR(x));
  
 END;
+
+
+output
+
+The value of x is 124
  
